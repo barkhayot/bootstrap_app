@@ -1,3 +1,3 @@
 # bootstrap_app
 project for bootstrap template
-will be updated
+will be updated soon
